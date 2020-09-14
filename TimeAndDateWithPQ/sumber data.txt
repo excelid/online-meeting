@@ -1,0 +1,1 @@
+Data yang digunakan didapat dari https://www.kaggle.com/rhuebner/human-resources-data-set#
